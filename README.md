@@ -82,7 +82,7 @@ Ways to Contribute:
 - Submit a pull request
 - Improve documentation or error handling
 License
-MIT License
+Apache License Version 2.0
 Project Goals
 This project is the foundation for a broader suite of AI-powered forex tools using Devin. Future plans include:
 - Automated backtesting support
